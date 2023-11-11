@@ -5,7 +5,7 @@
 #include <time.h>
 #include <unistd.h>
 
-#include "../s21_matrix.h"
+#include "../matrix.h"
 
 Suite *suite_create_matrix(void);
 Suite *suite_eq_matrix(void);
